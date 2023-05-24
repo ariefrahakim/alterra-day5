@@ -1,14 +1,17 @@
-demo/webdriver/WebdriverInstance.java
- demo.webdriver.WebdriverInstance
-demo/utils/Constants.java
- demo.utils.Constants
-demo/pages/base/BasePageObject.java
- demo.pages.base.BasePageObject
-demo/pages/base/page_object/LoginPages.java
- demo.pages.base.page_object.LoginPages
-demo/pages/base/page_object/CheckoutPages.java
- demo.pages.base.page_object.CheckoutPages
-demo/pages/base/page_object/TugasPages.java
- demo.pages.base.page_object.TugasPages
-demo/pages/base/page_object/AddToCartPages.java
- demo.pages.base.page_object.AddToCartPages
+aut/demo/pages/base/page_object/LoginPages.java
+ aut.demo.pages.base.page_object.LoginPages
+aut/demo/webdriver/WebdriverInstance.java
+ aut.demo.webdriver.WebdriverInstance
+aut/demo/pages/base/page_object/AddToCartPages.java
+ aut.demo.pages.base.page_object.AddToCartPages
+aut/demo/pages/base/BasePageObject.java
+ aut.demo.pages.base.BasePageObject
+aut/demo/utils/Utils.java
+ aut.demo.utils.Utils
+ aut.demo.utils.Utils$1
+aut/demo/utils/Constants.java
+ aut.demo.utils.Constants
+aut/demo/pages/base/page_object/TugasPages.java
+ aut.demo.pages.base.page_object.TugasPages
+aut/demo/pages/base/page_object/CheckoutPages.java
+ aut.demo.pages.base.page_object.CheckoutPages

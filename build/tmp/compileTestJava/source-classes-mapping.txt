@@ -1,12 +1,12 @@
-demo/hooks/WebdriverHooks.java
- demo.hooks.WebdriverHooks
-demo/CucumberRunner.java
- demo.CucumberRunner
-demo/steps_definition/AddToCartStep.java
- demo.steps_definition.AddToCartStep
-demo/steps_definition/LoginStep.java
- demo.steps_definition.LoginStep
-demo/steps_definition/CheckoutItemSteps.java
- demo.steps_definition.CheckoutItemSteps
-demo/steps_definition/TugasStep.java
- demo.steps_definition.TugasStep
+aut/demo/hooks/WebdriverHooks.java
+ aut.demo.hooks.WebdriverHooks
+aut/demo/steps_definition/TugasStep.java
+ aut.demo.steps_definition.TugasStep
+aut/demo/steps_definition/CheckoutItemSteps.java
+ aut.demo.steps_definition.CheckoutItemSteps
+aut/demo/steps_definition/AddToCartStep.java
+ aut.demo.steps_definition.AddToCartStep
+aut/demo/CucumberRunner.java
+ aut.demo.CucumberRunner
+aut/demo/steps_definition/LoginStep.java
+ aut.demo.steps_definition.LoginStep
